@@ -106,4 +106,4 @@ This project aims to transform sales data into meaningful insights through an in
 
 Aspiring Data Analyst
 
-**Skills:** SQL, PostgreSQL, Python, Excel, Power BI, Statistics
+**Skills:** SQL, Python, Excel, Power BI, Statistics
